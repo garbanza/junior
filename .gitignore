@@ -1,0 +1,8 @@
+/.gradle/
+/bin/
+/build/
+.project
+.classpath
+.settings
+extract-nodes.ods
+

@@ -1,0 +1,9 @@
+[{tag> ^:f0[[x y] div> [div> ^m{x y} y]]}
+ doc>
+ [!doctype> "html"]
+ [html>
+  [head>]
+  [body>
+   [{cl "someclass"} div> ^:m{class cl} cl]
+   [tag> class "oeuo"]
+   [tag> class "oeuo"]]]]
